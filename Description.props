@@ -1,0 +1,12 @@
+PackageName=WCJD
+Version=1.0.0
+Date=2015-04-28
+Title=Continuous (or Generalized) Jaccard distance
+Category=Distance
+Author=Josep Valls-Vargas <josep@valls.name>
+Maintainer=Josep Valls-Vargas <josep@valls.name>
+License=GPL 2.0|Mozilla
+Description=Implements the Continuous (or Generalized) Jaccard distance (or similarity) function. The standard formulation of the Jaccard index cannot operate on continuous values. This implementation generalizes the Jaccard similarity by borrowing the notion of a t-norm form the field of Fuzzy Logic.
+PackageURL=https://sites.google.com/site/josepvalls/home/voz/WCJD.zip?attredirects=0&d=1
+URL=https://sites.google.com/site/josepvalls/home/voz
+Depends=weka (>=3.7.1)
